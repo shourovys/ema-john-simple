@@ -1,0 +1,25 @@
+.header img{
+    height: 80px;
+    display: block;
+    margin:5px auto;
+}
+
+.nav-bar{
+    background-color:black;
+    line-height: 38px;
+    display: flex;
+}
+
+.nav-bar a{
+    font-size: 18px;
+    margin: 10px 18px;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 0px 8px;
+    justify-content: center;
+}
+.nav-bar a:hover{
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+}
